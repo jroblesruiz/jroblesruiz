@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jorge Robles @jroblesruiz
 - 👀 I’m interested in development, devops, and IT realated startups in general
 - 🌱 I’m currently learning to be an software architect
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on projects that integrate web applications with desktop applications.
 - 📫 How to reach me, jrobles@e-consultores.net
 
 <!---
